@@ -36,6 +36,7 @@ If its not the supposed utility at fault, please try some troubleshooting steps.
 
 ## Developers & Credits
 [AquaVClip](https://github.com/RealAquaVClip) - Developer of valkyrie - thexyrae on Discord
+<br/>
 [7GrandDad](https://github.com/7GrandDadPGN) - Lead Developer of the VapeV4ForRoblox fork - vaperoblox on Discord
 <br/>
 [rce-incorporated](https://github.com/rce-incorporated/Fiu) - Luau bytecode disassembly with modifications
