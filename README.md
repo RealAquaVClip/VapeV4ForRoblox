@@ -14,7 +14,7 @@
 ## Contacts
 [Discord]: Currently no discords
 <br/>
-[Youtube](https://youtube.com/c/ValkyrieClientRoblox)
+[Youtube](https://youtube.com/c/SuperHalalPNG)
 
 ## Usage
 1. Download the specific scripting utility of your choice.
