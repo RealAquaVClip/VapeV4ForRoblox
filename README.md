@@ -12,15 +12,15 @@
 </h2>
 
 ## Contacts
-[Discord](https://discord.gg/5gJqhQmrdS)
+[Discord]: Currently no discords
 <br/>
-[Youtube](https://youtube.com/c/7GrandDadVape)
+[Youtube](https://youtube.com/c/ValkyrieClientRoblox)
 
 ## Usage
 1. Download the specific scripting utility of your choice.
 2. Execute the provided loadstring below.
 ```luau
-loadstring(game:HttpGet("https://raw.githubusercontent.com/7GrandDadPGN/VapeV4ForRoblox/main/NewMainScript.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RealAquaVClip/VapeV4ForRoblox/main/NewMainScript.lua", true))()
 ```
 
 ## Possible Issues
@@ -35,7 +35,8 @@ If its not the supposed utility at fault, please try some troubleshooting steps.
 3. Ensuring no external script is conflicting with vape.
 
 ## Developers & Credits
-[7GrandDad](https://github.com/7GrandDadPGN) - Lead maintainer of the project - vaperoblox on Discord
+[AquaVClip](https://github.com/RealAquaVClip) - Developer of valkyrie - thexyrae on Discord
+[7GrandDad](https://github.com/7GrandDadPGN) - Lead Developer of the VapeV4ForRoblox fork - vaperoblox on Discord
 <br/>
 [rce-incorporated](https://github.com/rce-incorporated/Fiu) - Luau bytecode disassembly with modifications
 <br/>
